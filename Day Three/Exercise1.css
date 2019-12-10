@@ -1,0 +1,65 @@
+{  } Change Background color
+
+{ color: red ; } Change Text Color
+
+< body style="background-color: linen" > change body's color
+
+
+<style>
+head{ 
+    
+ 
+ background-color: black;
+    background-image: ("C:\Users\Admin\Documents\GitHub\Codepit\Day Three\1575967771081.png")
+}
+
+  html
+    {
+        background-color: black;
+    color: yellow ;
+    margin-left: 4px;
+}
+  body 
+{
+    
+margin-left: 30px;
+margin-top: 30px;
+color:darkred ;
+background-image: url("");
+background-repeat: repeat-y; 
+border-style: dotted;
+border-width: 3px;
+border-color: rebeccapurple;
+}
+div {
+    border-width: 4px;
+    background-color: rebeccapurple;
+  }
+
+  }
+  frame {
+    color:rebeccapurple;
+    margin-left: 2px;
+  }
+  p {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-bottom: 35px;
+    border-width: 1px;
+    color: black;
+  }
+  h1 {
+    background-color: rebeccapurple;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  h2 {
+    background-color: rebeccapurple;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  li {
+    background-color: rebeccapurple;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
