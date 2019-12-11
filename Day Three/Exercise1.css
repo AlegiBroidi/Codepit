@@ -6,60 +6,42 @@
 
 
 <style>
-head{ 
-    
- 
- background-color: black;
-    background-image: ("C:\Users\Admin\Documents\GitHub\Codepit\Day Three\1575967771081.png")
-}
+  head{ 
+   background-color: black;
+   background-image: ("C:\Users\Admin\Documents\GitHub\Codepit\Day Three\1575967771081.png") }
+  h1 {
+    margin-top: 5px;
+    margin-left: 5px}
 
-  html
-    {
-        background-color: black;
+  html {
+    background-color: black;
     color: yellow ;
-    margin-left: 4px;
-}
-  body 
-{
-    
-margin-left: 30px;
-margin-top: 30px;
-color:darkred ;
-background-image: url("");
-background-repeat: repeat-y; 
-border-style: dotted;
-border-width: 3px;
-border-color: rebeccapurple;
-}
-div {
+    margin-left: 4px; }
+  body {
+    margin-left: 30px;
+    margin-top: 30px;
+    color:darkred ;
+    background-image: url("");
+    background-repeat: repeat-y; 
+    border-style: dotted;
+    border-width: 3px;
+    border-color: rebeccapurple; }
+  div {
     border-width: 4px;
-    background-color: rebeccapurple;
-  }
-
-  }
+    background-color: black; }
   frame {
-    color:rebeccapurple;
-    margin-left: 2px;
-  }
-  p {
+    color:violet;
+    margin-left: 2px; }
+  p { 
     font-size: 20px;
     margin-left: 20px;
-    margin-bottom: 35px;
+    margin-bottom: 30px;
     border-width: 1px;
-    color: black;
-  }
-  h1 {
-    background-color: rebeccapurple;
+    color: darkred; }
+  li,h2,h1, {
+    background-color: black;
     margin-left: 10px;
-    margin-top: 10px;
-  }
-  h2 {
-    background-color: rebeccapurple;
+    margin-top: 10px; }
+  label,input {
     margin-left: 10px;
-    margin-top: 10px;
-  }
-  li {
-    background-color: rebeccapurple;
-    margin-left: 10px;
-    margin-top: 10px;
-  }
+    margin-right: 10px; }
